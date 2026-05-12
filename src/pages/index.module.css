@@ -1,0 +1,55 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+.hero {
+  padding: 5rem 0 4rem;
+  background: #101820;
+  color: #fff;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.main {
+  padding: 3rem 0;
+}
+
+.grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.card {
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: 8px;
+  color: inherit;
+  display: block;
+  padding: 1.25rem;
+  text-decoration: none;
+}
+
+.card:hover {
+  border-color: var(--ifm-color-primary);
+  color: inherit;
+  text-decoration: none;
+}
+
+.card h2 {
+  font-size: 1.15rem;
+}
+
+@media screen and (max-width: 996px) {
+  .hero {
+    padding: 3rem 1rem;
+  }
+
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}
