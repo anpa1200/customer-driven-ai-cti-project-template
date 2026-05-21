@@ -60,7 +60,7 @@ const config: Config = {
       title: 'AI CTI Template',
       logo: {
         alt: 'AI CTI Template',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
         {
