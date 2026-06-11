@@ -23,4 +23,4 @@ The generated static site is written to `build/`.
 USE_SSH=true npm run deploy
 ```
 
-The Docusaurus config is set for `https://anpa1200.github.io/customer-driven-ai-cti-project-template/`.
+The Docusaurus config is set for `https://1200km.com/customer-driven-ai-cti-project-template/`.

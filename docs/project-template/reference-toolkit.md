@@ -523,7 +523,7 @@ Pre-run Schema Freshness Check (mandatory before drafting):
 3. If any required data source has a sample-event timestamp older than 30 days:
    OUTPUT THE FOLLOWING WARNING before producing any detection logic:
 
-   ⚠ SCHEMA FRESHNESS WARNING — LOGIC PARITY UNCERTAIN
+   WARNING SCHEMA FRESHNESS WARNING — LOGIC PARITY UNCERTAIN
    Data source: [source name]
    Sample event timestamp: [date]
    Age: [N] days (exceeds 30-day freshness threshold)
