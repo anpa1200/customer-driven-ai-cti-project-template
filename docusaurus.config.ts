@@ -101,7 +101,7 @@ const config: Config = {
             {label: 'Israel Threat Actors CTI', href: 'https://1200km.com/israel-government-threat-actors-cti/'},
             {label: 'AI vs Defense', href: 'https://1200km.com/ai-vs-defense/'},
             {label: 'HexStrike AI', href: 'https://github.com/0x4m4/hexstrike-ai'},
-            {label: 'ThreatMapper Docs', href: 'https://1200km.com/threatmapper-docs/'},
+            {label: 'AdversaryGraph Docs', href: 'https://1200km.com/adversarygraph-docs/'},
           ],
         },
         {
@@ -124,7 +124,7 @@ const config: Config = {
               {label: 'Israel Threat Actors CTI', href: 'https://1200km.com/israel-government-threat-actors-cti/'},
               {label: 'AI vs Defense', href: 'https://1200km.com/ai-vs-defense/'},
               {label: 'HexStrike AI', href: 'https://github.com/0x4m4/hexstrike-ai'},
-            {label: 'ThreatMapper Docs', href: 'https://1200km.com/threatmapper-docs/'},
+            {label: 'AdversaryGraph Docs', href: 'https://1200km.com/adversarygraph-docs/'},
             ],
           },
           {
